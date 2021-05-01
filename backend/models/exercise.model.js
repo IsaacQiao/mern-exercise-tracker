@@ -15,7 +15,7 @@ const excerseSchema = new Schema({
         type: Number,
         required: true
     },
-    data: {
+    date: {
         type: Date,
         required: true
     }
